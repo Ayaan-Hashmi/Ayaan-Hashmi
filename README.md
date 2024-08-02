@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaan-hashmi" alt="ayaan-hashmi" /></a> </p>
 
-- 🌐 Currently diving into **Network Security & Cyber Defense** 🔐
+- **🌐 Currently diving into **Network Security & Cyber Defense** 🔐**
 
 - 💬 Ask me about :<br>
   **Python programming and its libraries**<br>
