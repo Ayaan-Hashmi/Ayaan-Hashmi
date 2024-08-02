@@ -5,9 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaan-hashmi" alt="ayaan-hashmi" /></a> </p>
 
-- 🌱 I’m currently learning **Network Security & Cyber Defense**
+- 🌐 Currently diving into **Network Security & Cyber Defense** 🔐
 
-- 💬 Ask me about **Python programming and its librariesDeveloping web applications with Django and FlaskData analysis and visualization using Pandas and MatplotlibAutomation scripts and tools in PythonNetwork security concepts and practicesRobotics programming and integration**
+- 💬 Ask me about:<br>
+  **Python programming and its libraries**<br>
+  **Developing web applications with Django and Flask**<br>
+  **Data analysis and visualization using Pandas and Matplotlib**<br>
+  **Automation scripts and tools in Python**<br>
+  **Network security concepts and practices**<br>
+  **Robotics programming and integration**<br><br>
 
 - 📫 How to reach me **apex.hashmi@gmail.com**
 
