@@ -1,5 +1,4 @@
-<div style="font-family: 'Courier New', 'Courier', monospace;">
-<h1 align="center">Welcome! I'm Ayaan Hashmi 👋</h1>
+<h1 align="center"><b>Welcome! I'm Ayaan Hashmi 👋</b></h1>
 <h3 align="center">A Tech Savvy Student Of Class XIth and Vice President of Robotics at High School.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaan-hashmi&label=Profile%20views&color=0e75b6&style=flat" alt="ayaan-hashmi" /> </p>
