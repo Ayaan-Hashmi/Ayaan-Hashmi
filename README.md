@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaan-hashmi&label=Profile%20views&color=0e75b6&style=flat" alt="ayaan-hashmi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaan-hashmi" alt="ayaan-hashmi" /></a> </p>
-
 - **🌐 Currently diving into Network Security, Advance Algorithms & Cyber Defense 🔐**
 
 - 💬 **Ask me about :**<br>
