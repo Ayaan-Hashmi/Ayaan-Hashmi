@@ -12,7 +12,7 @@
   **Building dynamic user interfaces with React**<br>
   **Automation scripts and tools in Python**<br>
   **Network security concepts and practices**<br>
-  **Robotics programming and integration**<br><br>
+  **Robotics programming and integration**<br>
 
 - 📫 **Reach me at : [**Discord**](https://discord.com/users/951491358500216842) or [**E-Mail**](mailto:apex.hashmi@gmail.com)**
 
