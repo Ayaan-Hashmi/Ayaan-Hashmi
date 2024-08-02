@@ -20,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaan-hashmi&show_icons=true&locale=en&layout=compact" alt="ayaan-hashmi" /></p><br>
 
-<h3 align="left"><b>Languages and Tools I am proficient in :</b></h3>
+<h3 align="left" style="clear: both;"><b>Languages and Tools I am proficient in :</b></h3>
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
