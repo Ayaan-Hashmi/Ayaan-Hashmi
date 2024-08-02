@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **apex.hashmi@gmail.com**
 
-- ⚡ Fun fact **I can code solutions faster than I can solve a Rubik's cube**
+- ⚡ Fun fact **I can code solutions faster than I can solve a Rubik's cube** <a href="https://www.youtube.com>Visit our homepage</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
