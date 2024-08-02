@@ -7,7 +7,7 @@
 
 - **🌐 Currently diving into **Network Security & Cyber Defense** 🔐**
 
-- 💬 Ask me about :<br>
+- 💬 **Ask me about :**<br>
   **Python programming and its libraries**<br>
   **Developing web applications with Django and Flask**<br>
   **Crafting responsive websites with HTML, CSS, and JavaScript**<br>
