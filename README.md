@@ -18,7 +18,7 @@
 
 <br>
 
-<h3 align="left">**Languages and Tools I am proficient in :**</h3>
+<h3 align="left"><b>Languages and Tools I am proficient in :</b></h3>
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
