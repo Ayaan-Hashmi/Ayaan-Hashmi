@@ -141,12 +141,9 @@
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
   </a>
 </p>
-
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs, github, python, javascript, express, firebase, mongodb,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i-react, r, bootstrap, mui, mysql, flask, html,css, vscode, figma, git" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,java,nodejs,mongodb,git" />
 </a>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaan-hashmi&show_icons=true&locale=en&layout=compact" alt="ayaan-hashmi" /></p>
