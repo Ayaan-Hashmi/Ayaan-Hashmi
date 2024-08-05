@@ -142,7 +142,7 @@
   </a>
 </p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,java,nodejs,mongodb,git" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,java,nodejs,mongodb,git,figma&theme=light" />
 </a>
 <br>
 
