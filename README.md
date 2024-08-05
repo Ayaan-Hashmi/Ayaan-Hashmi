@@ -142,6 +142,10 @@
   </a>
 </p>
 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs, github, python, javascript, express, firebase, mongodb,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i-react, r, bootstrap, mui, mysql, flask, html,css, vscode, figma, git" />
+</a>
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaan-hashmi&show_icons=true&locale=en&layout=compact" alt="ayaan-hashmi" /></p>
