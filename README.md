@@ -20,7 +20,7 @@
 <h3 align="left"><b>Languages and Tools I am proficient in :</b></h3>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,angular,arch,arduino,azul,azure,bash,bootstrap,c,cs,cpp,coffeescript,css,dart,debian,discord,bots,discordjs,django,docker,dotnet,electron,fediverse,figma,flutter,gcp,git,github,githubactions,gitlab,gmail,go,hibernate,html,ai,java,js,jquery,kotlin,kubernetes,linkedin,mongodb,mysql,nextjs,nodejs,npm,php,powershell,pytorch,raspberrypi,react,rust,stackoverflow,tailwind,tensorflow,ts,ubuntu,unity,unreal,vercel,aws,cloudflare,actix,adonis,netlify,pycharm,phpstorm,webstorm,clion,visualstudio,vscode,vscodium,androidstudio,anaconda,atom,codepen,windows,apple,linux,kali&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,jquery,html,css,php,react,nextjs,nodejs,angular,arch,arduino,azul,azure,bash,bootstrap,c,cs,cpp,coffeescript,dart,debian,discord,bots,discordjs,django,docker,dotnet,electron,fediverse,figma,flutter,gcp,git,github,githubactions,gitlab,gmail,go,hibernate,ai,java,kotlin,kubernetes,linkedin,mongodb,mysql,npm,php,powershell,pytorch,raspberrypi,rust,stackoverflow,tailwind,tensorflow,ts,ubuntu,unity,unreal,vercel,aws,cloudflare,actix,adonis,netlify,pycharm,phpstorm,webstorm,clion,visualstudio,vscode,vscodium,androidstudio,anaconda,atom,codepen,windows,apple,linux,kali&perline=10&theme=dark" />
 </a>
 
 <br><br>
