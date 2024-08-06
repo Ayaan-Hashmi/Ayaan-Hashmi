@@ -142,7 +142,7 @@
   </a>
 </p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,java,nodejs,mongodb,git,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=actix, adonis, anaconda, android studio, angular, apple, arch, arduino, atom, aws, azul, azure, bash, bootstrap, c, cs, cpp, clion, cloudflare, codepen, coffeescript, css, dart, debian, discord, bots, discordjs, django, docker, dotnet, electron, fediverse, figma, flutter, gcp, git, github, githubactions, gitlab, gmail, go, hibernate, html, ai, java, js, jquery, kali, kotlin, kubernetes, linkedin, linux, mongodb, mysql, netlify, nextjs, nodejs, npm, php, phpstorm, powershell, pycharm, py, pytorch, raspberry pi, react, rust, stackoverflow, tailwind, tensorflow, ts, ubuntu, unity, unreal, vercel, visualstudio, vscode, vscodium, webstorm, windows,figma&theme=light" />
 </a>
 <br>
 
