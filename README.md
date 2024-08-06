@@ -16,6 +16,11 @@
 
 - 📫 **Reach me at : [**Discord**](https://discord.com/users/951491358500216842) or [**E-Mail**](mailto:apex.hashmi@gmail.com)**
 
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaan-hashmi&show_icons=true&locale=en&layout=compact" alt="ayaan-hashmi" /></p>
+
+<br>
 
 <h3 align="left"><b>Languages and Tools I am proficient in :</b></h3>
 
