@@ -2,7 +2,6 @@
 <h3 align="center">A Tech Savvy Student | Class XI | Vice President of Robotics at Mayoor School, Noida</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaan-hashmi&label=Profile%20views&color=0e75b6&style=flat" alt="ayaan-hashmi" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaan-hashmi&label=Profile%20views&color=0dd3b2&style=flat-square" alt="ayaan-hashmi" /> </p> 
 
 - **🌐 Currently diving into Network Security, Advance Algorithms & Cyber Defense 🔐**
 
