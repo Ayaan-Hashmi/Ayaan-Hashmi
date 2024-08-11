@@ -1,7 +1,7 @@
 <h1 align="center"><b>Welcome! I'm Ayaan Hashmi 👋</b></h1>
 <h3 align="center">A Tech Savvy Student | Class XI | Vice President of Robotics at Mayoor School, Noida</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=torvalds&label=Profile%20views&color=0e75b6&style=flat" alt="torvalds" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=michalbe&label=Profile%20views&color=0e75b6&style=flat" alt="michalbe" /> </p>
 
 - **🌐 Currently diving into Network Security, Advance Algorithms & Cyber Defense 🔐**
 
