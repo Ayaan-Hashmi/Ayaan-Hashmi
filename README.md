@@ -31,10 +31,10 @@
 <br><br>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaan-hashmi" alt="ayaan-hashmi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishavchandna" alt="rishavchandna" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaan-hashmi&show_icons=true&locale=en&layout=compact" alt="ayaan-hashmi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchandna&show_icons=true&locale=en&layout=compact" alt="rishavchandna" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaan-hashmi&show_icons=true&locale=en" alt="ayaan-hashmi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchandna&show_icons=true&locale=en" alt="rishavchandna" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaan-hashmi&" alt="ayaan-hashmi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchandna&" alt="rishavchandna" /></p>
