@@ -24,6 +24,9 @@
 
 <h3 align="left"><b>Languages and Tools I am proficient in :</b></h3>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <a>
   <img src="https://skillicons.dev/icons?i=py,js,ts,c,cs,cpp,php,dart,go,rust,java,kotlin,swift,html,css,jquery,react,nextjs,nodejs,npm,angular,bootstrap,coffeescript,tailwind,django,flask,electron,tensorflow,pytorch,hibernate,unity,unreal,adonis,actix,dotnet,spring,mongodb,mysql,aws,azure,gcp,vercel,netlify,cloudflare,docker,kubernetes,github,git,githubactions,gitlab,figma,bash,powershell,arduino,raspberrypi,azul,fediverse,discord,linkedin,gmail,stackoverflow,pycharm,phpstorm,webstorm,clion,visualstudio,vscode,vscodium,androidstudio,anaconda,atom,codepen,sublime,windows,apple,linux,kali,ubuntu,debian,arch&perline=10&theme=dark" />
 </a>
