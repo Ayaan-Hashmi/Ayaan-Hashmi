@@ -27,7 +27,7 @@
 <br>
 
 <a>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,c,cs,cpp,php,dart,go,rust,java,kotlin,swift,html,css,jquery,react,nextjs,nodejs,npm,angular,bootstrap,tailwind,django,flask,electron,tensorflow,pytorch,unity,mongodb,mysql,aws,gcp,vercel,netlify,cloudflare,docker,kubernetes,github,git,githubactions,gitlab,figma,bash,powershell,arduino,raspberrypi,azul,fediverse,discord,linkedin,gmail,stackoverflow,pycharm,phpstorm,webstorm,clion,visualstudio,vscode,vscodium,androidstudio,anaconda,atom,codepen,sublime,windows,apple,linux,kali,ubuntu,debian&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,c,cs,cpp,php,dart,go,rust,java,kotlin,swift,html,css,jquery,react,nextjs,nodejs,npm,angular,bootstrap,tailwind,django,flask,electron,tensorflow,pytorch,unity,mongodb,mysql,aws,gcp,vercel,netlify,cloudflare,docker,kubernetes,github,git,githubactions,gitlab,figma,bash,powershell,arduino,raspberrypi,fediverse,discord,linkedin,gmail,stackoverflow,pycharm,phpstorm,webstorm,clion,visualstudio,vscode,vscodium,androidstudio,anaconda,atom,codepen,sublime,windows,apple,linux,kali,ubuntu,debian&perline=10&theme=dark" />
 </a>
 
 <br><br>
