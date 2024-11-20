@@ -33,4 +33,4 @@
 
 <br><br>
 
-![snake gif](https://github.com/Ayaan-Hashmi/Ayaan-Hashmi/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Ayaan-Hashmi/Ayaan-Hashmi/blob/output/github-snake-light.svg)
