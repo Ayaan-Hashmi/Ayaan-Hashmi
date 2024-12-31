@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaan-hashmi&label=Profile%20views&color=0e75b6&style=flat" alt="ayaan-hashmi" /> </p>
 
-- **🌐 Currently exploring Xtented reality, focusing on spatial computing and cross-platform integration with OpenXR**
+- **🌐 Currently exploring Xtended reality, focusing on spatial computing and cross-platform integration with OpenXR**
 
 - 💬 **Ask me about :**<br>
   **- Python programming and its libraries**<br>
