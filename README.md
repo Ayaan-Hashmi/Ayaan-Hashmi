@@ -1,5 +1,5 @@
 <h1 align="center"><b>Welcome! I'm Ayaan Hashmi 👋🏻</b></h1>
-<h3 align="center">A Tech Savvy Student | Class XI | President of PARADIGM Tech Club</h3>
+<h3 align="center">Class XII | President of PARADIGM Tech Club</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaan-hashmi&label=Profile%20views&color=0e75b6&style=flat" alt="ayaan-hashmi" /> </p>
 
