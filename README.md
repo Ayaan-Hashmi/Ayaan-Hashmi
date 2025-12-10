@@ -18,8 +18,6 @@
 
 <br>
 
-<br><br><br><br><br><br><br>
-
 <h3 align="left"><b>Languages and Tools I am proficient in :</b></h3>
 
 <br>
