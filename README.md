@@ -1,81 +1,38 @@
 <h1 align="center">Ayaan Hashmi</h1>
 <p align="center">
-  Building software, AI, and products.
+  software • AI • product
 </p>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ayaan%20Hashmi&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20%E2%80%A2%20AI%20%E2%80%A2%20Product&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Ayaan%20Hashmi&fontSize=55&animation=fadeIn&fontAlignY=50&desc=building%20things%20that%20interest%20me&descAlignY=72" />
 </div>
 <br>
+currently
+→ preparing for masters' union
+→ building vision patrol
+→ rebuilding clean slate
+→ exploring XR & spatial computing
 
-👋 About
-
-I’m Ayaan, an incoming student at Masters’ Union with a strong interest in software engineering, AI, and product building.
-
-Previously:
-
-* President of PARADIGM Tech Club
-* NASA International Space Hackathon (Noida) Runner-Up
-* Two-time iCode Global Finalist
-* Competitive programmer and hackathon enthusiast
-
-I enjoy building things that solve real problems, exploring emerging technologies, and turning ideas into working products.
-
-⸻
-
-🚀 Featured Projects
+featured
 
 🚦 Vision Patrol
-
-AI-powered road safety compliance system using computer vision, OCR, and real-time violation detection.
+AI-powered road safety compliance system.
 
 📝 Clean Slate
-
-A collaborative scriptwriting platform focused on seamless writing and real-time teamwork.
+Collaborative scriptwriting platform.
 
 🏆 Battle of Titans
-
-Technology symposium platform and event ecosystem built for large-scale interschool competitions.
+Technology symposium platform.
 
 🧠 Tranquillium
+Mental wellness application.
 
-Mental wellness application combining technology with personalized support experiences.
+stack
 
-⸻
-
-🌱 Currently Exploring
-
-* Artificial Intelligence & Machine Learning
-* Product Development
-* Spatial Computing & XR
-* Computer Vision
-* Startup Ecosystems
-
-⸻
-
-🛠️ Core Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,django,flask,git,github,docker,aws,mysql,unity,vscode&theme=dark" />
+<div align="left">
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,django,git,docker,aws,unity&theme=dark" />
 </div>
 
-⸻
+elsewhere
 
-📫 Connect
-
-<p align="left">
-<a href="https://linkedin.com/in/ayaan-hashmi">
-  LinkedIn
-</a>
-&nbsp;•&nbsp;
-<a href="mailto:apex.hashmi@gmail.com">
-  Email
-</a>
-</p>
-
-⸻
-
-<div align="center">
-
-Learning. Building. Iterating.
-
-</div>
+* LinkedIn
+* Email
