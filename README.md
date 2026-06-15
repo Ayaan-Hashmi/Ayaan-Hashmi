@@ -40,7 +40,7 @@ Outside of academics, I enjoy building projects, experimenting with new technolo
     <img src="https://skillicons.dev/icons?i=gmail" width="55" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+  <a href="https://instagram.com/ayaanhash.08">
     <img src="https://skillicons.dev/icons?i=instagram" width="55" />
   </a>
 </p>
