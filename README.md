@@ -4,6 +4,14 @@
   Data Science & AI @ Masters' Union
 </p>
 
+<p align="center">
+  AI • Software Engineering • Computer Vision • XR
+</p>
+
+<p align="center">
+  Building things, learning constantly, and figuring it out as I go.
+</p>
+
 <br>
 
 ## About
@@ -24,19 +32,21 @@ Outside of academics, I enjoy building projects, experimenting with new technolo
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,django,flask,git,github,mysql,unity,vscode&theme=dark" />
+  <img draggable="false" src="https://skillicons.dev/icons?i=py,js,html,css,react,django,flask,git,github,mysql,unity,vscode&theme=dark" />
 </p>
-
-## Connect
 
 ## Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/ayaan-hashmi">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a><a href="mailto:apex.hashmi@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a><a href="https://instagram.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+  </a>&nbsp;&nbsp;
+
+  <a href="mailto:apex.hashmi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img src="https://skillicons.dev/icons?i=instagram" width="55" />
   </a>
 </p>
