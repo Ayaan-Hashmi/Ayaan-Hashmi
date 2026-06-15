@@ -45,8 +45,17 @@ Tech Stack
 
 Connect
 
+Connect
+
 <p align="left">
   <a href="https://linkedin.com/in/ayaan-hashmi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="mailto:apex.hashmi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
 
