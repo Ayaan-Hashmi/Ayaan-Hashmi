@@ -1,10 +1,8 @@
 <h1 align="center">Ayaan Hashmi</h1>
 <p align="center">
-  Data Science & AI @ Masters' Union
+  Data Science & AI @ Masters' Union '30
 </p>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Ayaan%20Hashmi&fontSize=52&fontAlignY=38&desc=AI%20%E2%80%A2%20Software%20%E2%80%A2%20Technology&descAlignY=60" />
-</div>
+
 <br>
 
 About
@@ -24,26 +22,6 @@ Current Focus
 * Software Development
 * Product Development
 * XR & Spatial Computing
-
-⸻
-
-Featured Projects
-
-🚦 Vision Patrol
-
-AI-powered road safety compliance system using computer vision, OCR, and real-time violation detection.
-
-📝 Clean Slate
-
-Collaborative scriptwriting platform focused on seamless writing and real-time teamwork.
-
-🏆 Battle of Titans
-
-Technology symposium platform and event management ecosystem.
-
-🧠 Tranquillium
-
-Mental wellness application developed through innovation challenges and hackathons.
 
 ⸻
 
@@ -68,6 +46,7 @@ Tech Stack
 Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/ayaan-hashmi">LinkedIn</a> •
-  <a href="mailto:apex.hashmi@gmail.com">Email</a>
-</p>
+  <a href="https://linkedin.com/in/ayaan-hashmi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
