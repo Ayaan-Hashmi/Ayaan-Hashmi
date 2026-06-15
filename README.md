@@ -37,25 +37,34 @@ Highlights
 
 Tech Stack
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,django,flask,git,github,mysql,unity,vscode&theme=dark" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=django" />
+  <img src="https://skillicons.dev/icons?i=flask" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=unity" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
 
 ⸻
 
 Connect
 
-Connect
-
 <p align="left">
-  <a href="https://linkedin.com/in/ayaan-hashmi">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://linkedin.com/in/ayaan-hashmi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" hspace="10" />
   </a>
   <a href="mailto:apex.hashmi@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" hspace="10" />
   </a>
-  <a href="https://instagram.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" hspace="10" />
   </a>
 </p>
 
