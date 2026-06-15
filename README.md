@@ -19,8 +19,11 @@ I enjoy building projects, experimenting with new technologies, participating in
 ## Currently
 
 • Building computer vision and AI-powered applications
+
 • Exploring machine learning, intelligent systems, and product development
+
 • Working on side projects that solve practical problems
+
 • Learning through building, experimentation, and iteration
 
 ## Tech Stack
