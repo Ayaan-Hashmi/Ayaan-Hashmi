@@ -4,53 +4,22 @@
   Data Science & AI @ Masters' Union
 </p>
 
-<p align="center">
-  AI • Software • Computer Vision • XR
-</p>
-
 <br>
 
 ## About
 
 I'm interested in building technology that solves real-world problems.
 
-Currently studying Data Science & AI at Masters' Union, with interests in artificial intelligence, software engineering, computer vision, and product development.
+Currently exploring artificial intelligence, software engineering, computer vision, data systems, and product development.
 
-Before university, I led technology communities at Mayoor School as President of PARADIGM and the Computers & Robotics Council, where I organised technology events, led student initiatives, and worked with teams across schools.
+Outside of academics, I enjoy building projects, experimenting with new technologies, participating in hackathons, and turning ideas into things people can actually use.
 
-## Featured Projects
+## Currently
 
-### 🚦 Vision Patrol
-AI-powered road safety compliance system using computer vision, OCR, and real-time violation detection.
-
-### 📝 Clean Slate
-A collaborative scriptwriting platform focused on seamless writing and real-time teamwork.
-
-### 🏆 Battle of Titans
-Technology symposium platform and event ecosystem built for large-scale interschool competitions.
-
-### 🧠 Tranquillium
-Mental wellness application developed through hackathons and innovation challenges.
-
-## Current Focus
-
-- Artificial Intelligence
-- Computer Vision
-- Software Development
-- Product Development
-- XR & Spatial Computing
-
-## Highlights
-
-🏅 Adobe India Advance Python — AIR 1
-
-🚀 NASA International Space Hackathon (Noida) Runner-Up
-
-🌍 Two-time iCode Global Finalist
-
-👨‍💻 President, PARADIGM Tech Club
-
-🤖 President, Computers & Robotics Council
+- Learning more about AI and intelligent systems
+- Exploring computer vision and XR
+- Building side projects
+- Improving as a developer and problem solver
 
 ## Tech Stack
 
@@ -69,7 +38,7 @@ Mental wellness application developed through hackathons and innovation challeng
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+  <a href="https://instagram.com/YOUR_USERNAME">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
