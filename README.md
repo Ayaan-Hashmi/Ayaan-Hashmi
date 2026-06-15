@@ -56,6 +56,27 @@ Tech Stack
 
 Connect
 
+Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=django" />
+  <img src="https://skillicons.dev/icons?i=flask" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=unity" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
+⸻
+
+Connect
+
 <p align="left">
   <a href="https://linkedin.com/in/ayaan-hashmi" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" hspace="10" />
@@ -67,4 +88,3 @@ Connect
     <img src="https://skillicons.dev/icons?i=instagram" hspace="10" />
   </a>
 </p>
-
