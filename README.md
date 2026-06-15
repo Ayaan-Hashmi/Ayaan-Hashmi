@@ -14,14 +14,14 @@ I'm interested in building technology that solves real-world problems.
 
 Currently exploring artificial intelligence, software engineering, computer vision, data systems, and product development.
 
-Outside of academics, I enjoy building projects, experimenting with new technologies, participating in hackathons, and turning ideas into things people can actually use.
+I enjoy building projects, experimenting with new technologies, participating in hackathons, and turning ideas into things people can actually use.
 
 ## Currently
 
-- Learning more about AI and intelligent systems
-- Exploring computer vision and XR
-- Building side projects
-- Improving as a developer and problem solver
+• Building computer vision and AI-powered applications
+• Exploring machine learning, intelligent systems, and product development
+• Working on side projects that solve practical problems
+• Learning through building, experimentation, and iteration
 
 ## Tech Stack
 
