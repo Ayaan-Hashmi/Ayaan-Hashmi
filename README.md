@@ -8,8 +8,6 @@
   AI • Software Engineering • Computer Vision • Product Development
 </p>
 
-<br>
-
 ## About
 
 I'm interested in building technology that solves real-world problems.
