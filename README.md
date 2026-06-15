@@ -29,16 +29,14 @@ Outside of academics, I enjoy building projects, experimenting with new technolo
 
 ## Connect
 
+## Connect
+
 <p align="left">
   <a href="https://linkedin.com/in/ayaan-hashmi">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:apex.hashmi@gmail.com">
+  </a><a href="mailto:apex.hashmi@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://instagram.com/YOUR_USERNAME">
+  </a><a href="https://instagram.com/YOUR_USERNAME">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
