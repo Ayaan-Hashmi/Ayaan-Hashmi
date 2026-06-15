@@ -27,17 +27,17 @@ Outside of academics, I enjoy building projects, experimenting with new technolo
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py" width="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=react" width="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=django" width="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=flask" width="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" width="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=unity" width="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=git" width="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=github" width="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=unity" width="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="50" />
+  <img src="https://skillicons.dev/icons?i=docker" width="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" width="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="50" />
 </p>
 
 ## Connect
