@@ -26,36 +26,36 @@ Outside of academics, I enjoy building projects, experimenting with new technolo
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py" width="60" />
-  <img src="https://skillicons.dev/icons?i=js" width="60" />
-  <img src="https://skillicons.dev/icons?i=html" width="60" />
-  <img src="https://skillicons.dev/icons?i=css" width="60" />
-  <img src="https://skillicons.dev/icons?i=react" width="60" />
-  <img src="https://skillicons.dev/icons?i=django" width="60" />
-  <img src="https://skillicons.dev/icons?i=flask" width="60" />
-  <img src="https://skillicons.dev/icons?i=git" width="60" />
-  <img src="https://skillicons.dev/icons?i=github" width="60" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="60" />
-  <img src="https://skillicons.dev/icons?i=unity" width="60" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="60" />
+  <img src="https://skillicons.dev/icons?i=py" width="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=django" width="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" width="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=unity" width="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" />
 </p>
 
 ## Connect
 
 <p align="left">
   <a href="mailto:apex.hashmi@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="60" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>&nbsp;&nbsp;
 
   <a href="https://linkedin.com/in/ayaan-hashmi">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="60" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>&nbsp;&nbsp;
 
   <a href="https://instagram.com/ayaanhash.08">
-    <img src="https://skillicons.dev/icons?i=instagram" width="60" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" />
+  </a>&nbsp;&nbsp;
 
   <a href="https://discord.com/users/951491358500216842">
-    <img src="https://skillicons.dev/icons?i=discord" width="60" />
+    <img src="https://skillicons.dev/icons?i=discord" width="50" />
   </a>
 </p>
