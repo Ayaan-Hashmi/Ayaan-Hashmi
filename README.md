@@ -1,15 +1,11 @@
 <h1 align="center">Ayaan Hashmi</h1>
 
 <p align="center">
-  Data Science & AI @ Masters' Union
+  Data Science & AI @ Masters' Union '30
 </p>
 
 <p align="center">
-  AI • Software Engineering • Computer Vision • XR
-</p>
-
-<p align="center">
-  Building things, learning constantly, and figuring it out as I go.
+  AI • Software Engineering • Computer Vision • Product Development
 </p>
 
 <br>
